@@ -1,0 +1,22 @@
+.project-card {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  margin-right: 12px;
+  max-width: 100%;
+  border-radius: 6px;
+  padding: 4px;
+  margin-bottom: 6px;
+  list-style: none;
+}
+
+.img-section {
+  height: 200px;
+  width: 300px;
+}
+
+.name {
+  font-size: 20px;
+  color: #475569;
+  font-family: 'Roboto';
+}

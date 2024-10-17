@@ -1,0 +1,41 @@
+.bg-container {
+  background-color: #f1f5f9;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-bar {
+  background-color: #cbd5e1;
+  width: 100%;
+  padding: 10px;
+}
+
+.logo {
+  height: 60px;
+}
+
+.list-items {
+  display: flex;
+  flex-direction: 'row';
+  width: 100%;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.select-section {
+  padding: 10px;
+  background-color: white;
+  border-radius: 6px;
+  width: 40%;
+  margin: 25px;
+  font-size: 22px;
+}
+
+.loader{
+  background-color: white;
+  min-height:100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
